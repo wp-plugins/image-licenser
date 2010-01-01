@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imagelicenser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-01 09:21+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Raphael Mack <mail@raphael-mack.de>\n"
+"Language-Team: Raphael Mack <mail@raphael-mack.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/r/tmp/wp-image-licenser/\n"
+"X-Poedit-SearchPath-0: trunk\n"
+
+#: trunk/imagelicenser.php:88
+msgid "image by"
+msgstr "von"
+
+msgid "by"
+msgstr "Namensnennung"
+
+msgid "by-nd"
+msgstr "Namensnennung-Keine Bearbeitung"
+
+msgid "by-nc"
+msgstr "Namensnennung-Keine kommerzielle Nutzung"
+
+msgid "by-nc-nd"
+msgstr "Namensnennung-Keine kommerzielle Nutzung-Keine Bearbeitung"
+
+msgid "by-nc-sa"
+msgstr "Namensnennung-Keine kommerzielle Nutzung-Weitergabe unter gleichen Bedingungen"
+
+msgid "by-sa"
+msgstr "Namensnennung-Weitergabe unter gleichen Bedingungen"
+
+#: trunk/imagelicenser.php:97
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: trunk/imagelicenser.php:101
+msgid "License"
+msgstr "Lizenz"
+
+# this list is not yet complete
+#: trunk/imagelicenser.php:106
+msgid "Port_de"
+msgstr "Deutschland"
+
+msgid "Port_us"
+msgstr "Vereinigte Staaten von Amerika"
+
+msgid "Port_it"
+msgstr "Italy"
+
+msgid "Port_fr"
+msgstr "France"
+
+msgid "Port_ch"
+msgstr "Schweiz"
+
+msgid "Port_ar"
+msgstr "Argentinien"
+
+msgid "Port_at"
+msgstr "Österreich"
+
+msgid "Port_au"
+msgstr "Australien"
+
+msgid "Port_be"
+msgstr "Belgien"
+
+msgid "Port_bg"
+msgstr "Bulgarien"
+
+msgid "Port_br"
+msgstr "Brasilien"
+
+msgid "Port_ca"
+msgstr "Kanada"
+
+msgid "Port_cl"
+msgstr "Chile"
+
+msgid "Port_cn"
+msgstr "Volksrepublik China"
+
+msgid "Port_co"
+msgstr "Kolumbien"
+
+msgid "Port_uk"
+msgstr "UK: England &amp; Wales"
+
+#: trunk/imagelicenser.php:130
+msgid "Options saved."
+msgstr "Einstellungen gespeichert."
+
+#: trunk/imagelicenser.php:158
+msgid "Image Licenser"
+msgstr "Image Licenser"
+
+msgid "Choose defaults for the image licenser plugin to tag images with a <a href=\"http://creativecommons.org/\">CreativeCommons license</a> here. All images embedded in the <i>cc</i> shortcode will be equipped with <a href=\"http://wiki.creativecommons.org/RDFa\">RDFa</a> tags to enable search engins to detect the license of the image."
+msgstr "Hier können die Einstellungen des Image Licenser Plugins gewählt werden. Mit diesem können Bilder mit einer <a href=\"http://creativecommons.org/\">CreativeCommons</a> Lizenz marktiert werden indem der Shortcode <i>cc</i> verwendet wird. Dann werden <a href=\"http://wiki.creativecommons.org/RDFa\">RDFa</a> tags verwendet um Suchmaschinen und Nutzern die Lizenz der Bilder bekannt zu machen."
+
+#: trunk/imagelicenser.php:161
+msgid "For detailed information see the"
+msgstr "Für weitere Informationen besuchen Sie bitte die"
+
+#: trunk/imagelicenser.php:161
+msgid "plugin page"
+msgstr "Plugin Webseite"
+
+#: trunk/imagelicenser.php:163
+msgid "Usage"
+msgstr "Benutzung"
+
+#: trunk/imagelicenser.php:172
+msgid "You may adapt your CSS style sheet to include a style for .wp-image-license."
+msgstr "Sie können ihr CSS style sheet anpassen und einen Stil für .wp-image-license hinzufügen."
+
+#: trunk/imagelicenser.php:174
+msgid "Examples"
+msgstr "Beispiele"
+
+msgid "Configuration"
+msgstr "Einstellungen"
+
+#: trunk/imagelicenser.php:183
+msgid "Show the License link (if neither link=\"true\" nor link=\"false\" is given)"
+msgstr "Lizenzlink anzeigen (falls weder link=\"true\" noch link=\"false\" angegeben wurde)"
+
+#: trunk/imagelicenser.php:184
+msgid "Use smaller font size for link"
+msgstr "Verwende eine kleinere Schrift für die Lizenzinformation"
+
+#: trunk/imagelicenser.php:185
+msgid "Version used, if no version is given in shortcode"
+msgstr "Lizenzversion (falls im shortcode keine angegeben wird)"
+
+#: trunk/imagelicenser.php:186
+msgid "Jurisdiction used, if no port is given in shortcode"
+msgstr "Rechtsordnung (falls im shortcode keine angegeben wird)"
+
+#: trunk/imagelicenser.php:189
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
