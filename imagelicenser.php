@@ -32,7 +32,7 @@ function imagelicenser_initialize() {
 	add_option('imagelicenser_small', "false");
 	add_option('imagelicenser_version', EV_VERSION);
 	add_option('imagelicenser_showlink', "true");
-	add_option('imagelicenser_defaultversion', "false");
+	add_option('imagelicenser_defaultversion', "3.0");
 	update_option('imagelicenser_version', EV_VERSION);
 }
 
