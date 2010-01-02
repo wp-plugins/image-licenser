@@ -4,7 +4,7 @@
 Plugin Name: Image Licenser
 Plugin URI: http://www.raphael-mack.de/wp-image-licenser/
 Description: Easy tagging of images with a <a href="http://www.creativecommons.org">CreativeCommons</a> license using RDFa to enable search engines to understand the licensing meta data.
-Version: development version
+Version: 1.0
 License: GPL
 Author: Raphael Mack
 Author URI: http://www.raphael-mack.de
