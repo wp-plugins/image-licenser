@@ -4,7 +4,7 @@ Donate link: http://www.raphael-mack.de/wp-image-licenser/
 Tags: license, image, creativecommons, rdfa, embed, search engine
 Requires at least: 2.9
 Tested up to: 2.9
-Stable tag: 1.0 
+Stable tag: 1.0
 
 Easy tagging of images with a CreativeCommons-license by the new shortcode cc. By using RDFa search engines can detect the license for the images.
 
