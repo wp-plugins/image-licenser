@@ -112,8 +112,8 @@ function ilic_shortcode_handler($atts, $content=null, $code="") {
 		$output .= $licname;
 	}
 	if ('true' == $ev_small) $output .= "</small>";
-	$output .= '</p>';
-	$output .= "</a>\n";
+	$output .= '</a>';
+	$output .= "</p>\n";
 	$output .= "</div>";
 
 	return ($output);
